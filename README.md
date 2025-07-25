@@ -17,6 +17,13 @@ To build a predictive model that forecasts revenue using time-based features der
 
 ---
 
+## 📁 Dataset
+
+- **Source**: [Ecommerce Data – Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
+- **Description**: This dataset contains transactional data for a UK-based online retail store, including invoice details, quantities, prices, timestamps, and customer information.
+
+---
+
 ## 🧰 Tools & Libraries
 
 - **Python**
